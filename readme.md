@@ -3,7 +3,7 @@ https://activemq.apache.org/components/classic/download/
 
 Starting ActiveMQ Server :
 ------------------------------------------------------------------------------
-    i) open CMD and point the bin directory of ActiveMQ Installation Folder.
+    i) open CMD and point to the bin directory of ActiveMQ Installation Folder.
     ii) run "activemq start" command.
     iii) then ActiveMQ Server Starts.
   
